@@ -31,6 +31,25 @@ var config = {
             ]
         },
         {
+            id: 'chap-0',
+            subtitle: 'Domestic Violence Survivor',
+            
+            description: 'This singular  yellow point shows how little data was gathered regarding the women who have suffered domestic violence. With the lack of geographical markers related to domestic violence, we have decided to point out this aspect and reference indeed womens hidden struggles. To best protect and give voice to those affected, this chapter aims to point out their lack of representation.',
+            location: {
+                center: [-71.07378, 42.34039],
+                zoom: 17.35,
+                pitch: 0.00,
+                bearing: 0.00
+            },
+            onChapterEnter: [
+
+                
+            ],
+            onChapterExit: [ 
+
+            ]
+        },
+        {
             id: 'chap-1',
             subtitle: 'All Streets',
             
