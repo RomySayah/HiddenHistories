@@ -202,7 +202,7 @@ var config = {
         {
             id: 'chap-6',
             subtitle: 'Navigate Now!',
-            image:'./images/HH.png',
+            image:'./images/qr.png',
             description: 'After having read the histories of the women in these 4 streets, we would like to invite you to take a tour and explore their Hidden Histories. Keep an eye out for peep holes on the walls that will give you a glimpse through their universes.',
             byline: 'Please scan the QR code with your mobile camera and head to the site!',
             location: {
